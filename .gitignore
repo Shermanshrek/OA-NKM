@@ -37,3 +37,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Проект (не публикуются) ###
+# Фотографии слайдов лекций
+lecture-slides/
+# Рабочие инструкции для Claude Code
+CLAUDE.md
